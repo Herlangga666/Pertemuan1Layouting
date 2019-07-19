@@ -28,6 +28,7 @@
             android:text="OK"/>
 
         <Button
+            android:layout_toLeftOf="@+id/ok"
             android:id="@+id/Batal"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
